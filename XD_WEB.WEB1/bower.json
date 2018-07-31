@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "angular": "~1.7.2",
-    "angular-ui-router": "~1.0.18",
+    "angular-ui-router": "~1.0.19",
     "boostrap": "~3.3.6",
     "fastclick": "~1.0.6",
     "jQuery": "~3.3.1",

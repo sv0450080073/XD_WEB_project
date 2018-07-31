@@ -34,4 +34,4 @@
                 authData.authenticationData.userName = "";
             }
         }]);
-})(angular.module('xd_web.common'));
+})(angular.module('xd_web.common'));*/

@@ -11,4 +11,4 @@
 
         return authDataFactory;
     }]);
-})(angular.module('xd_web.common'));
+})(angular.module('xd_web.common'));*/
